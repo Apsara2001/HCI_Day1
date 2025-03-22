@@ -1,4 +1,4 @@
-# Human Computer Interface - Axure 9 Project 01
+# Human Computer Interface - Axure RP Project 01
 
 This repository contains a Human-Computer Interface (HCI) practical project created using Axure RP 9. The project consists of two user interface designs: a user login page and a fitness website homepage.
 
