@@ -7,11 +7,12 @@ This project demonstrates user interface (UI) design concepts for enhancing user
 
 ### Screenshots
 #### 1. User Login Page
-   ![page_1](https://github.com/user-attachments/assets/50e1d54b-9301-4036-943a-440514813423)
+![page_1](https://github.com/user-attachments/assets/50e1d54b-9301-4036-943a-440514813423)
 
 
 #### 2. Fitness Website Homepage
-![page_2](https://github.com/user-attachments/assets/6ab99f60-a8e7-4d69-b6a6-045ef8cf711e)
+![page_3png](https://github.com/user-attachments/assets/8519a1ce-a839-4c82-b072-8075d1c9809f)
+
 
 
 ## Features
@@ -24,6 +25,6 @@ This project demonstrates user interface (UI) design concepts for enhancing user
 
 ## How to Use
 1. Clone this repository:
-   ```https://github.com/Apsara2001/HCI_Day1.git
-   ```
+   ```https://github.com/Apsara2001/HCI_Day1.git```
+
   
